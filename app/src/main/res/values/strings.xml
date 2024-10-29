@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">COOKING NETWORK</string>
+    <string name="connexion_login_title">Une application rempli de recettes !</string>
+    <string name="connexion_login_text">Un nouveau réseau social qui réunit toutes les recettes de nos utilisateurs !</string>
+    <string name="registration">Inscription</string>
+    <string name="ignore">Ignorer</string>
+    <string name="account_exist">Vous avez déjà un compte ?</string>
+    <string name="connection">Connexion</string>
+    <string name="submit">Poster</string>
+    <string name="description">Description</string>
+    <string name="placeholderedittext">Tapez quelque chose...</string>
+
+    /*Login*/
+    <string name="enterid">Entrer vos identifiants</string>
+    <string name="notaccount">Vous n’avez pas de compte ?</string>
+
+
+    /*Register*/
+    <string name="personalinformation">Information Personnelles</string>
+    <string name="fillfields">Veuillez remplir les champs suivants</string>
+    <string name="fullname">Nom Complet</string>
+    <string name="email">Adresse Email</string>
+    <string name="birth">Date de naissance</string>
+    <string name="genre">Genre</string>
+    <string name="username">Nom d\'utilisateur</string>
+    <string name="password">Mot de passe</string>
+    <string name="confirmepassword">Confirmez votre mot de passe</string>
+    <string-array name="array_genre">
+        <item>Homme</item>
+        <item>Femme</item>
+        <item>Autres</item>
+    </string-array>
+
+
+    /* Menu */
+    <string name="home">Home</string>
+    <string name="newpost">New post</string>
+    <string name="setting">Setting</string>
+    <string name="chat">Chats</string>
+
+    /*Home*/
+    <string name="welcome">Bienvenue,</string>
+
+    /*Search*/
+    <string name="follow">Suivre</string>
+
+
+    /*comment*/
+
+    <string name="comment">Commentaire</string>
+    <string name="newcomment">Ajouter</string>
+
+    /*chat*/
+
+
+
+    /* Profiles */
+    <string name="pseudo">Oyin Dolapo</string>
+    <string name="villeandcountry">Abeokuta, Ogun</string>
+    <string name="myprofile">My Profile</string>
+    <string name="editmyprofile">Edit my Profile</string>
+    <string name="editprofile">Edit Profile</string>
+    <string name="desc">Ta description doit pas faire plus de 206 caractères</string>
+
+    <string name="post">Posts</string>
+    <string name="Following">Following</string>
+    <string name="Followers">Followers</string>
+
+    <string name="nbPost">87</string>
+    <string name="nbFollowing">870</string>
+    <string name="nbFollowers">15k</string>
+
+    /* Edit Profiles */
+    <string name="nomutilisateur">Nom dutilisateur</string>
+    <string name="Localisation">Localisation</string>
+    <string name="Tel">Tel</string>
+    <string name="mdp">Mot de passe</string>
+    <string name="aboutme">A propos de moi</string>
+    <string name="update">Update</string>
+    <string name="deleteProfile">SUPPRIMER PROFILE</string>
+
+
+    /* Content */
+    <string name="oval4">oval4</string>
+    <string name="retour">retour</string>
+
+    <string name="line">line</string>
+    <string name="line2">line2</string>
+    <string name="menu">menu</string>
+
+    <string name="notification">notification</string>
+
+    <string name="profile">profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
